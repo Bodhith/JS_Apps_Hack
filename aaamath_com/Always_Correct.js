@@ -10,4 +10,4 @@ function alpha()
    }
 }
 
-alpha();
+setInterval(alpha, 1000);
